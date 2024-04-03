@@ -11,5 +11,5 @@ phases:
       - dir target
 artifacts:
   files:
-    - target/my-app.jar
+    - target/my-app-1.0-SNAPSHOT.jar
   discard-paths: yes
